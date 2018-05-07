@@ -12,7 +12,7 @@
 使用vue-cli搭建的vue项目，加上了路由功能
 
 ## vue-vs-react
-关于vue项目和react项目的render渲染的速度对比
+关于vue项目和react项目的render渲染的速度对比，项目是来自于vue的作者的git上的，在此只是做一个备份
 
 ## vue-vuex
 
