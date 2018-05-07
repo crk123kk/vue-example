@@ -40,7 +40,10 @@
 
 关于使用路由器的vue项目
 
+### vue-router-example
 
+关于vue项目中的路由的使用，较为完整的，是在其他作者的基础上加上自己的理解以及懒加载的功能（参考网址：https://github.com/weipxiu/Vue-Router）
+about页面是实现了懒加载的功能
 
 
 
