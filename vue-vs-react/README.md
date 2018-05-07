@@ -7,6 +7,8 @@
 ```
 npm install
 npm start
+使用的时候，需要先执行：npm run install-all 下载关于项目的所有依赖包
+					再执行npm run build-all 将所有项目打包，这样才可以运行
 ```
 
 Then run the benchmarks for:
