@@ -14,6 +14,11 @@
 ## vue-vs-react
 关于vue项目和react项目的render渲染的速度对比，项目是来自于vue的作者的git上的，在此只是做一个备份
 
+## vue-directive
+
+### vue -directive
+关于vue指令的使用
+
 ## vue-vuex
 
 ### vuex-todo-example
