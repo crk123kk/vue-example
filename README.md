@@ -21,6 +21,9 @@
 
 ## vue-vuex
 
+### vue-vuex-base
+关于vuex的基本知识点的使用
+
 ### vuex-todo-example
 
 使用vuex的todo代码，简单是实现todo的功能，没有样式
