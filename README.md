@@ -19,6 +19,11 @@
 ### vue -directive
 关于vue指令的使用
 
+## vue-transfer-info
+
+### vue-transfert-info
+关于组件间的信息传递
+
 ## vue-vuex
 
 ### vue-vuex-base
